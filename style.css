@@ -1,0 +1,9 @@
+.jumbotron {
+	background-image: url(./cellulartower.jpg);
+	background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar-inner {
+    background:transparent;
+}
+
